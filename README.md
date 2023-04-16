@@ -33,7 +33,7 @@ contact me via discord
 - high reputation and quick development times.
 
 
-<h3 align="center">Over 14 years of experience</h4>
+<h3 align="center">Over 7 years of experience</h4>
 <p align="center">My Discord: [f$0c1ty]#9904</p>
 
 
