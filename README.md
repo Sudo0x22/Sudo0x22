@@ -20,7 +20,7 @@ contact me via discord
 ```
 
 
-### ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DefaultO.DefaultO)
+###  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DefaultO.DefaultO)
 
 
 
