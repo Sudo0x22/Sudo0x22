@@ -10,7 +10,7 @@
 
 
 ```diff
-  im mostly interested in Windows kernel development, Cheat Development and programming.
+im mostly interested in Windows kernel development, Cheat Development and programming.
 
 + Security Researcher | Reverse Engineer | Programmer | Cheat Developer  
 ! x86, c++, c#, c, python, php, Perl, lua
